@@ -1,6 +1,5 @@
 # Link Picker 2.0.0
 
-![Link Picker Logo](_internal/icon.ico)
 
 A customizable tool for managing and organizing links with an intuitive dark-mode GUI.
 
