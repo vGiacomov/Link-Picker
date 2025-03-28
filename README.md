@@ -13,7 +13,7 @@ Your Smart Link Management Companion
 - 🔄 Clear all selections with one click
 - 🖥️ Custom dark theme with modern UI controls
 - 📏 Resizable window with scrollable content
-- 🔄 Regular content updates with new links
+- 🔄 Regular updates 
 
 ## Installation
 1. Download the latest release
@@ -50,15 +50,31 @@ Your Smart Link Management Companion
    - **🔄**: Clear all selections
 
 ## Content Updates
-The application will receive regular updates with:
-- New pre-configured link collections
-- Updated resources
-- Additional categories
 
-To update:
-1. Download the newest version
-2. Your existing `components` folder will be preserved
-3. New link collections will be added automatically
+The application comes with a default collection of computer hardware components (CPUs, GPUs, motherboards, etc.) that will be regularly updated with new pre-configured link collections
+
+
+### Update Options:
+
+### For default content users:
+
+      Download the newest version
+
+      Your existing components folder will be preserved
+
+      New collections will be added automatically
+
+      Existing default links will receive version updates
+
+### For custom database builders:
+
+      You may ignore these updates
+
+      Delete/rename the default _default_components folder
+
+      Create your own .txt files in the components folder
+
+      Your custom links will never be overwritten
 
 ## Requirements
 - Windows 10/11
