@@ -1,7 +1,8 @@
 # Link Picker 2.0.0
 
+Your Smart Link Management Companion
 
-A customizable tool for managing and organizing links with an intuitive dark-mode GUI.
+✨ Effortlessly organize, access, and share your digital resources with this sleek dark-mode application. Designed for productivity with:
 
 ## Features
 - 📂 Tab-based organization of link collections
