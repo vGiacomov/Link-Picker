@@ -1,0 +1,4 @@
+1. Download the newest version
+2. Open Linkpicker files folder     
+3. Delete/rename the default components folder
+4. Add folder with new content
