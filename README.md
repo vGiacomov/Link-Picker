@@ -2,7 +2,7 @@
 
 Your Smart Link Management Companion
 
-✨ Effortlessly organize, access, and share your digital resources with this sleek dark-mode application. Designed for productivity with:
+✨ Effortlessly organize, access, and share your digital resources with this sleek dark-mode application. Designed for productivity:
 
 ## Features
 - 📂 Tab-based organization of link collections
