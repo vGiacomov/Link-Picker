@@ -57,18 +57,20 @@ The application comes with a default collection of computer hardware components 
 ### For default content users:
 
       Download the newest version
+      
+      Open Linkpicker files folder
+      
+      Delete/rename the default components folder
 
-      Your existing components folder will be preserved
+      Add folder with new content
 
-      New collections will be added automatically
-
-      Existing default links will receive version updates
+     
 
 ### For custom database builders:
 
       You may ignore these updates
 
-      Delete/rename the default _default_components folder
+      Delete/rename the default components folder
 
       Create your own .txt files in the components folder
 
